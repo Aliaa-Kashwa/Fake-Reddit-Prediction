@@ -11,7 +11,7 @@ The notebook consists of:
 2) Problem Questions & their answers to enhance understanding the problem solutions.
 3) Import important libraries.
 4) Import data.
-   - You will find the data link in ("Link of competition on Kaggle") file attached above.
+   - You will find the data link in (https://www.kaggle.com/competitions/cisc-873-dm-f22-a3).
 5) Data Exploration.
 6) Working on data.
    - I will apply two different cleaning functions on data and see the results of each of them.
